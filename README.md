@@ -21,8 +21,8 @@ The following tables give an overview of my progress.
 | Technical Support Fundamentals | 6 / 6 | No |
 | The Bits and Bytes of Computer Networking | 6 / 6 | No |
 | Operating Systems and You: Becoming a Power User | 6 / 6| No | 
-| System Administration and IT Infrastructure Services | 0 / 6| ? | 
-| IT Security: Defense against the digital dark arts | 0 / 6 | ? |
+| System Administration and IT Infrastructure Services | 6 / 6| No | 
+| IT Security: Defense against the digital dark arts | 6 / 6 | No |
 
 - Automation with Python
 
@@ -31,8 +31,8 @@ The following tables give an overview of my progress.
 | Crash Course on Python | 6 / 6 | Yes |
 | Using Python to Interact with the Operating System | 7 / 7 | Yes |
 | Introduction to Git and GitHub | 4 / 4| Yes |
-| Troubleshooting and Debugging Techniques | 0 / 4| ? |
-| Configuration Management and the Cloud | 0 / 4 | ? |
+| Troubleshooting and Debugging Techniques | 4 / 4| No |
+| Configuration Management and the Cloud | 4 / 4 | No |
 | Automating Real-World Tasks with Python | 0 / 4 | ? |
 
 After a subcourse is completed, I receive a certificate. 
